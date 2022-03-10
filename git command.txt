@@ -1,0 +1,14 @@
+How to start with git for the first time
+1.git init
+2.git remote add origin <repolink>
+3.git add .
+4.git commit -m"this is first commit"
+5.git push origin master
+
+for 2nd time you have to do 3-5 steps 
+
+How to get code and files from github
+1.on git bash type  [git clone <repolink> . -b master] dont put . if you have not created any folder to store the files
+ 
+How to see where your code is going
+2.in terminal after opening the folder with git bash type [git remote -v]
